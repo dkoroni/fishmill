@@ -1,0 +1,5 @@
+swim_mill: swim_mill.c
+	gcc -o swim_mill swim_mill.c -lpthread && gcc -o pellet pellet.c -lpthread && gcc -o fish fish.c -lpthread -lm
+	
+	
+
