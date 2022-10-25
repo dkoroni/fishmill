@@ -1,4 +1,3 @@
-# fishmill
-fishmill project
+# fish farm
 
-Simulates a fish swimming in a stream while pellets drop towards the fish.
+Asynchronous multi-threaded program simulating a fish swimming towards pellets. Coded in C in a linux environment with a main controller, output to console, and individual threads created for pellets falling towards the fish.
